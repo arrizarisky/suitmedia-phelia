@@ -6,12 +6,13 @@
 
 Berikut adalah tampilan dari aplikasi ini:
 
-(public/images/pict1.jpg)
-(public/images/pict 2.jpg)
-(public/images/pict3.jpg)
-(public/images/pict 4.jpg)
-(public/images/pict 5.jpg)
-(public/images/pict 6.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict1.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict2.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict3.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict4.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict5.jpg)
+![Preview](https://raw.githubusercontent.com/arrizarisky/suitmedia-phelia/main/images/pict6.jpg)
+
 
 
 ---
