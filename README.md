@@ -20,8 +20,8 @@ Berikut adalah tampilan dari aplikasi ini:
 ## ⚙️ Instalasi
 
 ```bash
-git clone https://github.com/username/complaint-analyzer.git
-cd complaint-analyzer
+git clone https://github.com/arrizarisky/suitmedia-phelia.git
+cd suitmedia-phelia
 composer install
 cp .env.example .env
 php artisan key:generate
